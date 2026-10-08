@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Compressor drilling and excavation support">
+  <rect width="1200" height="800" fill="#0f172a"/>
+  <rect y="500" width="1200" height="300" fill="#1f2937"/>
+  <path d="M0 540L190 470L360 540L570 430L750 560L970 470L1200 570V800H0Z" fill="#374151"/>
+  <rect x="220" y="200" width="200" height="185" rx="15" fill="#f59e0b"/>
+  <rect x="250" y="236" width="150" height="18" rx="8" fill="#fff7ed"/>
+  <rect x="250" y="270" width="110" height="18" rx="8" fill="#fdba74"/>
+  <rect x="250" y="305" width="130" height="18" rx="8" fill="#fff7ed" opacity="0.8"/>
+  <circle cx="820" cy="240" r="120" fill="#d97706" opacity="0.75"/>
+  <rect x="738" y="260" width="170" height="18" rx="8" fill="#fef3c7"/>
+  <rect x="756" y="300" width="120" height="18" rx="8" fill="#fef3c7" opacity="0.8"/>
+  <path d="M720 420L875 350L930 420L790 560H705Z" fill="#111827"/>
+  <path d="M500 438L585 392L680 438L640 556H545Z" fill="#d97706"/>
+</svg>

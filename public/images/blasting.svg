@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Blasting and rock breaking site work">
+  <rect width="1200" height="800" fill="#111827"/>
+  <rect y="520" width="1200" height="280" fill="#1f2937"/>
+  <path d="M0 560L210 410L420 560L590 390L740 600L920 480L1200 600V800H0Z" fill="#374151"/>
+  <circle cx="900" cy="215" r="70" fill="#f59e0b" opacity="0.9"/>
+  <path d="M865 215L880 170L910 205L950 175L960 215L920 245L935 290L900 265L865 300L875 250L835 225L865 215Z" fill="#fef3c7"/>
+  <rect x="180" y="270" width="420" height="180" rx="18" fill="#d97706"/>
+  <rect x="205" y="300" width="180" height="25" fill="#fef3c7"/>
+  <rect x="205" y="344" width="260" height="25" fill="#fef3c7" opacity="0.8"/>
+  <rect x="205" y="384" width="150" height="25" fill="#fde68a"/>
+  <rect x="710" y="300" width="180" height="150" rx="18" fill="#0f172a"/>
+  <path d="M750 420L860 330L910 390L810 500H750Z" fill="#f59e0b"/>
+</svg>

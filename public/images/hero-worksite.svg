@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="NKR compressor and rock breaking worksite">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <rect x="0" y="560" width="1200" height="340" fill="#1f2937"/>
+  <path d="M0 620L150 540L320 620L540 500L700 600L960 470L1200 580V900H0Z" fill="#374151" opacity="0.8"/>
+  <rect x="160" y="304" width="280" height="160" rx="18" fill="#d97706"/>
+  <rect x="187" y="332" width="226" height="28" rx="10" fill="#fcd34d"/>
+  <rect x="187" y="370" width="120" height="20" rx="10" fill="#fef3c7" opacity="0.8"/>
+  <rect x="182" y="430" width="440" height="42" rx="16" fill="#111827" opacity="0.9"/>
+  <rect x="650" y="270" width="140" height="190" rx="22" fill="#0f172a"/>
+  <rect x="680" y="180" width="90" height="110" rx="16" fill="#f59e0b"/>
+  <rect x="695" y="205" width="60" height="64" rx="10" fill="#fef3c7"/>
+  <path d="M625 458L750 416L802 458L760 565H675L625 458Z" fill="#d97706"/>
+  <circle cx="780" cy="600" r="42" fill="#111827"/>
+  <circle cx="780" cy="600" r="20" fill="#f59e0b"/>
+  <circle cx="635" cy="600" r="42" fill="#111827"/>
+  <circle cx="635" cy="600" r="20" fill="#f59e0b"/>
+  <rect x="405" y="510" width="150" height="120" rx="14" fill="#111827" opacity="0.92"/>
+  <text x="480" y="455" text-anchor="middle" font-size="54" font-weight="900" fill="#fef3c7" font-family="Arial, sans-serif">NKR</text>
+</svg>
